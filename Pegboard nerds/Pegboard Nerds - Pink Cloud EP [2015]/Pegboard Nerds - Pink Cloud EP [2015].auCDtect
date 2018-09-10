@@ -1,0 +1,82 @@
+﻿CUE Corrector v.6.14.1 (build 516)
+------------------------------------------------------------------------
+Pegboard Nerds / Pink Cloud EP
+
+Folder: Pegboard Nerds - Pink Cloud EP [2015]
+audio files:
+    01. Emoji [03:40.00, FLAC, 44100Hz, Stereo, 16bit; 29,56 MB (30 992 121 bytes)]
+    02. Pink Cloud (feat. Max Collins) [03:35.03, FLAC, 44100Hz, Stereo, 16bit; 28,56 MB (29 945 203 bytes)]
+    03. Just Like That (feat. Johnny Graves) [03:23.43, FLAC, 44100Hz, Stereo, 16bit; 25,55 MB (26 786 509 bytes)]
+    04. Downhearted (feat. Jonny Rose) [03:30.03, FLAC, 44100Hz, Stereo, 16bit; 27,96 MB (29 318 135 bytes)]
+    05. End Is Near (Fire In The Hole VIP) [04:03.02, FLAC, 44100Hz, Stereo, 16bit; 32,49 MB (34 065 916 bytes)]
+
+Accuracy: -m0
+
+File 01. Emoji                                - 100% CDDA [03:40.00]
+
+  Detected average hi-boundary frequency      :  2.035514e+004 Hz
+  Detected average lo-boundary frequency      :  1.377939e+004 Hz
+  Detected average hi-cut frequency           :  2.121375e+004 Hz
+  Detected average lo-cut frequency           :  1.313478e+004 Hz
+  Maximum probablis boundary frequency        :  2.189100e+004 Hz
+  Coefficient of nonlinearity of a phase      :  1.604265e-001
+  First order smothness                       :  3.626003e-001
+  Second order smothness                      :  5.154073e-001
+
+File 02. Pink Cloud (feat. Max Collins)       -  99% CDDA [03:35.03]
+
+  Detected average hi-boundary frequency      :  2.036307e+004 Hz
+  Detected average lo-boundary frequency      :  1.267897e+004 Hz
+  Detected average hi-cut frequency           :  2.125938e+004 Hz
+  Detected average lo-cut frequency           :  1.645303e+004 Hz
+  Maximum probablis boundary frequency        :  2.189100e+004 Hz
+  Coefficient of nonlinearity of a phase      :  1.661570e-001
+  First order smothness                       :  3.721934e-001
+  Second order smothness                      :  6.964594e-001
+
+File 03. Just Like That (feat. Johnny Graves) - 100% CDDA [03:23.43]
+
+  Detected average hi-boundary frequency      :  2.053814e+004 Hz
+  Detected average lo-boundary frequency      :  1.370655e+004 Hz
+  Detected average hi-cut frequency           :  2.120200e+004 Hz
+  Detected average lo-cut frequency           :  1.589322e+004 Hz
+  Maximum probablis boundary frequency        :  2.189100e+004 Hz
+  Coefficient of nonlinearity of a phase      :  1.698574e-001
+  First order smothness                       :  3.601095e-001
+  Second order smothness                      :  7.664234e-001
+
+File 04. Downhearted (feat. Jonny Rose)       - 100% CDDA [03:30.03]
+
+  Detected average hi-boundary frequency      :  2.022855e+004 Hz
+  Detected average lo-boundary frequency      :  1.330822e+004 Hz
+  Detected average hi-cut frequency           :  2.127531e+004 Hz
+  Detected average lo-cut frequency           :  1.097603e+004 Hz
+  Maximum probablis boundary frequency        :  2.189100e+004 Hz
+  Coefficient of nonlinearity of a phase      :  1.503387e-001
+  First order smothness                       :  3.788683e-001
+  Second order smothness                      :  5.459770e-001
+
+File 05. End Is Near (Fire In The Hole VIP)   - 100% CDDA [04:03.02]
+
+  Detected average hi-boundary frequency      :  2.017522e+004 Hz
+  Detected average lo-boundary frequency      :  1.254171e+004 Hz
+  Detected average hi-cut frequency           :  2.131703e+004 Hz
+  Detected average lo-cut frequency           :  1.418505e+004 Hz
+  Maximum probablis boundary frequency        :  2.189100e+004 Hz
+  Coefficient of nonlinearity of a phase      :  2.595231e-001
+  First order smothness                       :  3.588078e-001
+  Second order smothness                      :  5.235002e-001
+
+----- Summary: -----
+These tracks looks like CDDA with probability 100%.
+------------------------------------------------------------------------
+
+ANALYZER:
+    auCDtect: CD records authenticity detector, version 0.8.2
+    Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+    Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Time elapsed: 2 m 04 s
+Log created at October 25, 2015 13:39:23
+
+=== EF65951003C8ADDCE870ED440CFBA7050AA7815E85D162291FFD010102C26FBD ===
